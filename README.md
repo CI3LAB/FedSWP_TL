@@ -23,7 +23,7 @@ a lightweight and adaptive FedSWP-TL workflow to address the need for efficient 
 ```
 
 ### 🚀  Datasets
-**Title: YawDD**  
+**Title: YawDD** 
 short for “Yawing Detection Dataset,” comprised two datasets featuring videos captured at a resolution of 640 × 480 pixels with 24-bit actual color (RGB) from car operations in 2014. It was identical to alerting fatigue of the crane operator. These videos depicted a range of facial expressions, including regular, talking/singing, and yawning at 30 frames per second (FPS). The first dataset, obtained from the front mirror perspective, comprised 270 videos featuring 90 subjects (47 males and 43 females). The second dataset, captured from the dashboard viewpoint, involved 29 subjects (16 males and 13 females).   
 **Title: DROZY**  
 The ULg Multimodality Drowsiness Database (Massoz et al., 2016), stands out as the most widely utilized dataset for monitoring mental fatigue. Collected over two days in a controlled lab setting, it encompassed multiple modalities, such as EEG (Fz, Pz, Cz, C3, and C4), EOG, ECG, EMG, camera videos and reaction times via the administration of the psychomotor vigilance test (PVT), the application of polysomnography (PSG) electrodes, and the KSS assessment of sleepiness levels. The study cohort included 14 healthy participants, consisting of 3 males and 11 females, with an average age of 22.7 years (±2.3 SD).  
@@ -43,7 +43,7 @@ Dates: 2024/10/25
 File names: confm_cr_202410
 File format: mp4, csv  
 Versions: v20241001  
----
+
 
 ## 🏃 Get Started (快速开始)
 
